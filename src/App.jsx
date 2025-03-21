@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div>
         <BrowserRouter>
-        np
+        
                <Routes> 
                    <Route index path='/' element={<><Nav/><Styleconference/></>}/>
                    <Route path='/home' element={<><Nav/><Styleconference/></>} />
