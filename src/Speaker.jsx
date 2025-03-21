@@ -1,6 +1,11 @@
 import React from 'react'
 import Nav from './Nav'
-
+import arron from '../src/assets/aaron-irizarry.jpg'
+import adom from  '../src/assets/adam-connor.jpg'
+import ajself from '../src/assets/aj-self.jpg'
+import arman from '../src/assets/arman-ghosh.jpg'
+import bermon from '../src/assets/bermon-painter.jpg'
+import shey from '../src/assets/shay-howe.jpg'
 const Speaker = () => {
   return (
 
@@ -18,7 +23,7 @@ const Speaker = () => {
 
 
 
-      {/* CONTENT */}
+    
 
 
       <div className="container p-5 text-start ">
@@ -36,7 +41,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="../src/assets/aaron-irizarry.jpg"
+                  src={arron}
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -68,7 +73,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="../src/assets/adam-connor.jpg"
+                  src={adom}
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -99,7 +104,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="../src/assets/aj-self.jpg"
+                  src={ajself}
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -129,7 +134,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="../src/assets/arman-ghosh.jpg"
+                  src={arman}
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -160,7 +165,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="../src/assets/bermon-painter.jpg"
+                  src={bermon}
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -190,7 +195,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="../src/assets/shay-howe.jpg"
+                  src={shey}
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
