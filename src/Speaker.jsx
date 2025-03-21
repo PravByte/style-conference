@@ -36,7 +36,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="/src/assets/aaron-irizarry.jpg"
+                  src="../src/assets/aaron-irizarry.jpg"
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -68,7 +68,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="/src/assets/adam-connor.jpg"
+                  src="../src/assets/adam-connor.jpg"
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -99,7 +99,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="/src/assets/aj-self.jpg"
+                  src="../src/assets/aj-self.jpg"
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -129,7 +129,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="/src/assets/arman-ghosh.jpg"
+                  src="../src/assets/arman-ghosh.jpg"
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -160,7 +160,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="/src/assets/bermon-painter.jpg"
+                  src="../src/assets/bermon-painter.jpg"
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
@@ -190,7 +190,7 @@ const Speaker = () => {
 
               <div style={{ width: "120px", height: "120px", borderRadius: "50%", overflow: "hidden", position: "absolute", top: "-50px", left: "50%", transform: "translateX(-50%)", }}>
                 <img
-                  src="/src/assets/shay-howe.jpg"
+                  src="../src/assets/shay-howe.jpg"
                   alt=""
                   style={{ width: "100%", height: "100%", objectFit: "cover" }}
                 />
